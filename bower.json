@@ -1,0 +1,29 @@
+{
+  "name": "BlackhawkWebComponents",
+  "homepage": "http://blackhawkwebcomponents.github.io/",
+  "description": "Blackhawk Web Components",
+  "main": "index.html",
+  "authors": [
+    "Rob Beers"
+  ],
+  "license": "Apache2",
+  "version": "0.0.1",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "../"
+  ],
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "core-icons": "Polymer/core-icons#master"
+  }
+}
